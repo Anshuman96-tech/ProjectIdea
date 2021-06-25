@@ -1,5 +1,5 @@
 # ProjectIdea
-ntroduction
+Introduction
 As we are in the era of digitalization and we as an individual also happens to be a using the same in our daily life. The year 2020 as we all witnessed was all about lockdown, quarantine, self-isolation, social distance. Despite all these, our country got a boost in Digital Payments/Transactions. India recorded 25.5 billion transactions surpassing China at 15.7 billion only.
 
 Idea
